@@ -7,7 +7,7 @@
 [![License](https://img.shields.io/badge/license-Proprietary-red.svg)](LICENSE)
 [![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey.svg)]()
 
-*Developed by [Demoph Studios](https://demoph.com) - Industry Leaders in Game Technology*
+*Developed by [Demoph Studios](https://x.com/demophstudios)
 
 ---
 
